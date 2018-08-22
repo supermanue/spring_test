@@ -5,8 +5,8 @@ this is a program to learn the basics of Spring dependency injection.
 It simulates a paper-rock-scissors game.
 
 
-## Submission
-Please find my submission for the problem. It has been implemented with the following languages and libraries:
+## Libraries
+It has been implemented with the following languages and libraries:
 
 - Language: Java 1.8
 - Build tool: Graddle
@@ -14,6 +14,7 @@ Please find my submission for the problem. It has been implemented with the foll
   - Spring: application framework. Used mainly for dependency injection
   - Junit: testing library
   - Mockito: mocking library, also for testing
+
 
 
 ## CODE ORGANIZATION
